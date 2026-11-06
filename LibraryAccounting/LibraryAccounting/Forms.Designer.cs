@@ -1,6 +1,6 @@
 ﻿namespace LibraryAccounting
 {
-    partial class Form1
+    partial class Forms
     {
         /// <summary>
         ///  Required designer variable.
